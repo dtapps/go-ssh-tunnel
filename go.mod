@@ -1,4 +1,4 @@
-module github.com/dtapps/go-ssh-Tunnel
+module github.com/dtapps/go-ssh-tunnel
 
 go 1.16
 
