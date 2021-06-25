@@ -59,8 +59,6 @@
 ![GitHub search hit counter](https://img.shields.io/github/search/dtapps/go-ssh-tunnel/go?style=for-the-badge)
 ![GitHub top language](https://img.shields.io/github/languages/top/dtapps/go-ssh-tunnel?style=for-the-badge)
 
-[comment]: <> (sourcegraph.com)
-![sourcegraph](https://sourcegraph.com/github.com/dtapps/go-ssh-tunnel/-/badge.svg)
 
 [comment]: <> (scrutinizer-ci.com)
 ![Scrutinizer build (GitHub/Bitbucket)](https://img.shields.io/scrutinizer/build/g/dtapps/go-ssh-tunnel/master?style=for-the-badge)
