@@ -1,0 +1,10 @@
+# 服务器
+username: "root" #服务器用户名
+password: "" #服务器密码
+serverAddr: "" #服务器地址
+serverPort: "22" #服务器端口
+remoteAddr: "" #远程地址
+remotePort: "3306" #远程端口
+# 本地
+localAddr: "localhost" #地址
+localPort: "13306" #端口

@@ -1,0 +1,10 @@
+.env
+.git
+.svn
+.idea
+.vscode
+*.log
+git.sh
+gittag.sh
+gitinit.sh
+config.yaml
