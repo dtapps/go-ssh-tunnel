@@ -1,0 +1,10 @@
+kind: pipeline
+type: docker # 使用docker
+name: default
+
+steps:
+  - name: go-library
+    image: golang
+    commands:
+      - go mod tidy
+      - ls -lh
