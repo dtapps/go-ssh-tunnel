@@ -59,14 +59,10 @@
 ![GitHub search hit counter](https://img.shields.io/github/search/dtapps/go-ssh-tunnel/go?style=for-the-badge)
 ![GitHub top language](https://img.shields.io/github/languages/top/dtapps/go-ssh-tunnel?style=for-the-badge)
 
-
 [comment]: <> (scrutinizer-ci.com)
 ![Scrutinizer build (GitHub/Bitbucket)](https://img.shields.io/scrutinizer/build/g/dtapps/go-ssh-tunnel/master?style=for-the-badge)
 ![Scrutinizer coverage (GitHub/BitBucket)](https://img.shields.io/scrutinizer/coverage/g/dtapps/go-ssh-tunnel/master?style=for-the-badge)
 ![Scrutinizer code quality (GitHub/Bitbucket)](https://img.shields.io/scrutinizer/quality/g/dtapps/go-ssh-tunnel/master?style=for-the-badge)
-
-[comment]: <> (www.codetriage.com)
-![open source helpers](https://www.codetriage.com/dtapps/go-ssh-tunnel/badges/users.svg)
 
 [comment]: <> (www.travis-ci.com)
 ![Travis (.com) branch](https://img.shields.io/travis/com/dtapps/go-ssh-tunnel/master?style=for-the-badge)
