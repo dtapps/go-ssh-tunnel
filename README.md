@@ -54,9 +54,6 @@
 [comment]: <> (gitlab.com)
 [![gitlab (.com)](https://gitlab.com/dtapps/go-ssh-tunnel/badges/master/pipeline.svg)](https://gitlab.com/dtapps/go-ssh-tunnel)
 
-[comment]: <> (codechina.csdn.net)
-[![codechina.csdn (.net)](https://codechina.csdn.net/dtapps/go-ssh-tunnel/badges/master/pipeline.svg)](https://codechina.csdn.net/dtapps/go-ssh-tunnel)
-
 ## 下载使用
 
 - 把.example.config.yaml文件重命名为config.yaml
