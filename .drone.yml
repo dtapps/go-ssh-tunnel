@@ -1,9 +1,9 @@
 kind: pipeline
-type: docker # 使用docker
+type: docker
 name: default
 
 steps:
-  - name: go-library
+  - name: dtapps
     image: golang
     commands:
       - go mod tidy
