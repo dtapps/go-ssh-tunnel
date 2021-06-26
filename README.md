@@ -69,10 +69,10 @@ go get -u github.com/dtapps/dtapps/go-ssh-tunnel
 package main
 
 import (
-	"github.com/dtapps/dtapps/go-ssh-tunnel"
+	"github.com/dtapps/go-ssh-tunnel/dssh"
 )
 
 func main() {
-	Tunnel("root", "", ":22", ":3306", "localhost:13306")
+	dssh.Tunnel("root", "", ":22", ":3306", "localhost:13306")
 }
 ```
