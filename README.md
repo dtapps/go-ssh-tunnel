@@ -52,8 +52,7 @@
 [![Codecov branch](https://img.shields.io/codecov/c/github/dtapps/go-ssh-tunnel/master)](https://app.codecov.io/gh/dtapps/go-ssh-tunnel)
 
 [comment]: <> (gitlab.com)
-[![gitlab (.com)](https://gitlab.com/dtapps/go-ssh-tunnel/badgcodeql-analysis.yml
-FUNDING.ymles/master/pipeline.svg)](https://gitlab.com/dtapps/go-ssh-tunnel)
+[![gitlab (.com)](https://gitlab.com/dtapps/go-ssh-tunnel/badges/master/pipeline.svg)](https://gitlab.com/dtapps/go-ssh-tunnel)
 
 [comment]: <> (codechina.csdn.net)
 [![codechina.csdn (.net)](https://codechina.csdn.net/dtapps/go-ssh-tunnel/badges/master/pipeline.svg)](https://codechina.csdn.net/dtapps/go-ssh-tunnel)
