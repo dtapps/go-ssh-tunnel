@@ -10,12 +10,9 @@
 [comment]: <> (go)
 [![golang version](https://img.shields.io/badge/golang-%3E%3D1.6-8892BF.svg)](https://pkg.go.dev/github.com/dtapps/go-ssh-tunnel)
 [![godoc](https://pkg.go.dev/badge/github.com/dtapps/go-ssh-tunnel?status.svg)](https://pkg.go.dev/github.com/dtapps/go-ssh-tunnel)
-
-[comment]: <> (goproxy.cn)
-[![goproxy](https://goproxy.cn/stats/github.com/dtapps/go-ssh-tunnel/badges/download-count.svg)](https://goproxy.cn/stats/github.com/dtapps/go-ssh-tunnel)
-
-[comment]: <> (goreportcard.com)
-[![go report card](https://goreportcard.com/badge/github.com/dtapps/go-ssh-tunnel)](https://goreportcard.com/report/github.com/dtapps/go-ssh-tunnel)
+[![oproxy.cn](https://goproxy.cn/stats/github.com/dtapps/go-ssh-tunnel/badges/download-count.svg)](https://goproxy.cn/stats/github.com/dtapps/go-ssh-tunnel)
+[![goreportcard.com](https://goreportcard.com/badge/github.com/dtapps/go-ssh-tunnel)](https://goreportcard.com/report/github.com/dtapps/go-ssh-tunnel)
+[![deps.dev](https://img.shields.io/badge/deps-go-red.svg)](https://deps.dev/go/github.com%2Fdtapps%2Fgo-ssh-tunnel)
 
 [comment]: <> (github.com)
 [![watchers](https://badgen.net/github/watchers/dtapps/go-ssh-tunnel)](https://github.com/dtapps/go-ssh-tunnel/watchers)
@@ -35,12 +32,6 @@
 [![GitHub language count](https://img.shields.io/github/languages/count/dtapps/go-ssh-tunnel)](https://github.com/dtapps/go-ssh-tunnel)
 [![GitHub search hit counter](https://img.shields.io/github/search/dtapps/go-ssh-tunnel/go)](https://github.com/dtapps/go-ssh-tunnel)
 [![GitHub top language](https://img.shields.io/github/languages/top/dtapps/go-ssh-tunnel)](https://github.com/dtapps/go-ssh-tunnel)
-
-[comment]: <> (gitlab.com)
-[![gitlab (.com)](https://gitlab.com/dtapps/go-ssh-tunnel/badges/master/pipeline.svg)](https://gitlab.com/dtapps/go-ssh-tunnel)
-
-[comment]: <> (deps.dev)
-[![deps](https://img.shields.io/badge/deps-go-red.svg)](https://deps.dev/go/github.com%2Fdtapps%2Fgo-ssh-tunnel)
 
 ## 下载使用
 
